@@ -6,7 +6,7 @@ I'm a Full Stack Developer with a background in philanthropy for the Performing 
 
 
   
-[Findeatre](https://findeatre.adaptable.app/)
+### [Findeatre](https://findeatre.adaptable.app/)
 
 My second project at Ironhack : a web app to discover all upcoming plays around you and follow your favorite artists.
 Technologies: NodeJS, Express.js, Javascript, CSS, MongoDB, Cloudinary
@@ -20,4 +20,4 @@ Technologies: NodeJS, Express.js, Javascript, CSS, MongoDB, Cloudinary
 
 ## Would you like to connect? Check out my Linkedin
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/solen-wanono/)
