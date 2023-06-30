@@ -3,7 +3,7 @@
 I'm a Full Stack Developer with a background in philanthropy for the Performing Arts, I thrive in international environments and mission-driven companies. I have a strong ability to adapt myself to a company's perspective, to learn new skills quickly and to provide clean and fine-tuned tech solutions.
 
 ## My Projects
-![Findeatre's landing page|320x271](https://res.cloudinary.com/dkadjaj7k/image/upload/v1688130499/Findeatre_capture_pbmjtf.png)
+![Findeatre's landing page|100x100](https://res.cloudinary.com/dkadjaj7k/image/upload/v1688130499/Findeatre_capture_pbmjtf.png)
 
 [Findeatre](https://findeatre.adaptable.app/)
 My second project at Ironhack : a web app to discover all upcoming plays around you and follow your favorite artists.
