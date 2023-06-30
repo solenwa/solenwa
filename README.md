@@ -9,10 +9,18 @@ I'm a Full Stack Developer with a background in philanthropy for the Performing 
 ### [Findeatre](https://findeatre.adaptable.app/)
 
 My second project at Ironhack : a web app to discover all upcoming plays around you and follow your favorite artists.
+
 Technologies: NodeJS, Express.js, Javascript, CSS, MongoDB, Cloudinary
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688130499/Findeatre_capture_pbmjtf.png" alt="Findeatre's landing page" width="300" height="200"/>    <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688131416/Findeatre_s_screenshot_ti0gvn.png" alt="Findeatre's screenshot" width="300" height="200"/>
 
+### [A Brick Breaker Game](https://www.solenetthomas.com/brick-breaker/)
+
+My first project ever: a brick breaker game.
+
+Technologies : HTML, CSS and Javascript
+
+<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688131968/Brick_Breaker_capture_ewqtym.png" alt="Brick Breaker's landing page" height="200"/>
 
 ## I build websites with
 
