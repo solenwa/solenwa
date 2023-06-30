@@ -4,6 +4,13 @@ I'm a Full Stack Developer with a background in philanthropy for the Performing 
 
 ## My Projects
 
+### [Gluttonglobe](https://bejewelled-alfajores-c72f6e.netlify.app/)
+
+My final project at Ironhack : a mobile app allowing users to mark cities they have been to or want to visit, while also discovering recommendations from users worldwide.
+
+Technologies: MERN Stack
+
+<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688132197/Gluttonglobe_capture_hvlzdv.png" alt="Gluttonglobe's screenshot" height="200"/>
 
   
 ### [Findeatre](https://findeatre.adaptable.app/)
