@@ -4,12 +4,12 @@ I'm a Full Stack Developer with a background in philanthropy for the Performing 
 
 ## My Projects
 
-<div width="200">
   <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688130499/Findeatre_capture_pbmjtf.png" alt="Findeatre's landing page" width="100" />
+  
 [Findeatre](https://findeatre.adaptable.app/)
 My second project at Ironhack : a web app to discover all upcoming plays around you and follow your favorite artists.
 Technologies: NodeJS, Express.js, Javascript, CSS, MongoDB, Cloudinary
-</div>
+
 
 
 
