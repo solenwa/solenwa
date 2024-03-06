@@ -4,6 +4,14 @@ I'm a Full Stack Developer with a background in philanthropy for the Performing 
 
 ## My Projects
 
+### [Read Fabula](https://readfabula.com/)
+
+An app that offers bilingual stories to help immerse children in the local stories and culture of their target languages.
+
+Technologies: MERN Stack
+
+<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1709719383/Readfabula.png" alt="Readfabula screenshot" height="200"/>
+
 ### [Gluttonglobe](https://bejewelled-alfajores-c72f6e.netlify.app/)
 
 My final project at Ironhack : a mobile app allowing users to mark cities they have been to or want to visit, while also discovering recommendations from users worldwide.
