@@ -8,7 +8,7 @@ I'm a Full Stack Developer with a background in philanthropy for the Performing 
 
 An app that offers bilingual stories to help immerse children in the local stories and culture of their target languages.
 
-Technologies: MERN Stack
+Technologies: MERN Stack, Mailchimp Integration
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1709719383/Readfabula.png" alt="Readfabula screenshot" height="200"/>
 
