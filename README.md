@@ -39,7 +39,7 @@ Technologies : HTML, CSS and Javascript
 
 ## I build websites with
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,netlify)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,netlify)
 
 ## Would you like to connect? Check out my Linkedin
 
