@@ -17,6 +17,7 @@ Technologies: ReactJS, Mailchimp Integration
 My final project at Ironhack : a mobile app allowing users to mark cities they have been to or want to visit, while also discovering recommendations from users worldwide.
 
 Technologies: MERN Stack
+Repository: https://github.com/Panthari-Panthong/gluttonGlobe-client
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688132197/Gluttonglobe_capture_hvlzdv.png" alt="Gluttonglobe's screenshot" height="200"/>
 
