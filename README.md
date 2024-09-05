@@ -4,7 +4,7 @@ I'm a Full Stack Developer with a background in philanthropy for the Performing 
 
 ## My Projects
 
-### [Read Fabula](https://readfabula.com/)
+### [Read Fabula](https://readfabula.netlify.app/)
 
 An app that offers bilingual stories to help immerse children in the local stories and culture of their target languages.
 
