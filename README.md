@@ -17,7 +17,8 @@ Technologies: ReactJS, Mailchimp Integration
 My final project at Ironhack : a mobile app allowing users to mark cities they have been to or want to visit, while also discovering recommendations from users worldwide.
 
 Technologies: MERN Stack
-Repository: https://github.com/Panthari-Panthong/gluttonGlobe-client
+
+Click here for repository(https://github.com/Panthari-Panthong/gluttonGlobe-client)
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688132197/Gluttonglobe_capture_hvlzdv.png" alt="Gluttonglobe's screenshot" height="200"/>
 
@@ -27,6 +28,8 @@ Repository: https://github.com/Panthari-Panthong/gluttonGlobe-client
 My second project at Ironhack : a web app to discover all upcoming plays around you and follow your favorite artists.
 
 Technologies: NodeJS, Express.js, Javascript, CSS, MongoDB, Cloudinary
+
+Click here for repository(https://github.com/aturike/findeatre)
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688130499/Findeatre_capture_pbmjtf.png" alt="Findeatre's landing page" width="300" height="200"/>    <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688131416/Findeatre_s_screenshot_ti0gvn.png" alt="Findeatre's screenshot" width="300" height="200"/>
 
