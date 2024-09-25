@@ -4,6 +4,14 @@ I'm a Full Stack Developer with a background in philanthropy for the Performing 
 
 ## My Projects
 
+### [Amazona](https://amazona-ih67.onrender.com/)
+
+A duplicate of the e-commerce website Amazon.
+
+Technologies: MERN Stack, Paypal Integration
+
+<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1727255584/Amazona_f8r4lu.png" alt="Amazona screenshot" height="200"/>
+
 ### [Read Fabula](https://readfabula.netlify.app/)
 
 An app that offers bilingual stories to help immerse children in the local stories and culture of their target languages.
