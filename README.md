@@ -10,6 +10,8 @@ A duplicate of the e-commerce website Amazon.
 
 Technologies: MERN Stack, Paypal Integration
 
+[Click here for repository](https://github.com/solenwa/Amazona)
+
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1727255584/Amazona_f8r4lu.png" alt="Amazona screenshot" height="200"/>
 
 ### [Read Fabula](https://readfabula.netlify.app/)
