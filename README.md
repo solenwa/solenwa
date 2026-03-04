@@ -26,13 +26,11 @@ Technologies: Wordpress, Elementor, Javascript, PHP
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772630921/Page_D_accueil_-_L_Observatoire_Des_Camps_De_Re%CC%81fugie%CC%81s_-_o-cr.org_matt0c.png" alt="Observatoire des camps de réfugiés screenshot" height="300"/>
 
-#### Findeatre
+#### [Findeatre](https://github.com/aturike/findeatre)
 
 A web app to discover all upcoming plays around you and follow your favorite artists.
 
 Technologies: NodeJS, Express.js, Javascript, CSS, MongoDB, Cloudinary
-
-[Click here for repository](https://github.com/aturike/findeatre)
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688130499/Findeatre_capture_pbmjtf.png" alt="Findeatre's landing page" height="200"/><img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688131416/Findeatre_s_screenshot_ti0gvn.png" alt="Findeatre's screenshot" height="200"/>
 
