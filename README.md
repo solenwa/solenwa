@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Project manager with several years of experience in digital project management, I am now specializing in Governance, Risk, and Compliance (GRC) through a Master’s degree in Computer Science and Management at EPITA.
+Project manager with several years of experience in digital project management, I am now specializing in Governance, Risk, and Compliance (Cybersecurity/GRC) through a Master’s degree in Computer Science and Management at EPITA.
 
 ## My Projects
 
