@@ -44,9 +44,9 @@ Technologies: NodeJS, Express.js, Javascript, CSS, MongoDB, Cloudinary
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688130499/Findeatre_capture_pbmjtf.png" alt="Findeatre's landing page" width="300" height="200"/>    <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688131416/Findeatre_s_screenshot_ti0gvn.png" alt="Findeatre's screenshot" width="300" height="200"/>
 
-## I build websites with
+## My skills
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,netlify)
+![My Skills](https://skillicons.dev/icons?i=cloudflare,css,docker,figma,github,html,js,mongodb,netlify,postgres,postman,react,wordpress)
 
 ## Would you like to connect? Check out my Linkedin
 
