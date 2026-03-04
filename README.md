@@ -20,7 +20,7 @@ Skills: Exploration/Profiling, Transformation, Modelisation, Visualisation
 
 #### [L'Observatoire des camps de réfugiés](https://o-cr.org/)
 
-A web platform built with WordPress and custom development to centralize, structure, and make accessible reliable information and analysis on refugee camps worldwide.
+A web platform built with WordPress and custom development to centralize and make accessible reliable information and analysis on refugee camps worldwide.
 
 Technologies: Wordpress, Elementor, Javascript, PHP
 
