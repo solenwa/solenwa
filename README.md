@@ -1,18 +1,30 @@
 # Hi there 👋
 
-I'm a Full Stack Developer with a background in project management for the Performing Arts, I thrive in international environments and mission-driven companies. I have a strong ability to adapt myself to any situation, to learn new skills quickly and to provide clean and fine-tuned tech solutions.
+Project manager with several years of experience in digital project management, I am now specializing in Governance, Risk, and Compliance (GRC) through a Master’s degree in Computer Science and Management at EPITA.
 
 ## My Projects
 
-### [Amazona](https://amazona-ih67.onrender.com/)
+### Dataviz
 
-A duplicate of the e-commerce website Amazon.
+### Etude sur les accidents de la route en France en 2024
 
-Technologies: MERN Stack, Paypal Integration
+An interactive Power BI dashboard analyzing road accident data in France to uncover trends, risk factors, and regional disparities, supporting data-driven decision-making in road safety.
 
-[Click here for repository](https://github.com/solenwa/Amazona)
+Technologies: Power BI
 
-<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1727255584/Amazona_f8r4lu.png" alt="Amazona screenshot" height="200"/>
+<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632574/Dataviz1_vjy6ub.png" alt="Observatoire des camps de réfugiés screenshot" height="300"/>
+<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632586/Dataviz2_apofn8.png" alt="Observatoire des camps de réfugiés screenshot" height="300"/>
+<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632590/Dataviz3_bmdaw6.png" alt="Observatoire des camps de réfugiés screenshot" height="300"/>
+
+### Web development code/no-code
+
+### [L'Observatoire des camps de réfugiés](https://o-cr.org/)
+
+A web platform built with WordPress and custom development to centralize, structure, and make accessible reliable information and analysis on refugee camps worldwide.
+
+Technologies: Wordpress, Elementor, Javascript, PHP
+
+<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772630921/Page_D_accueil_-_L_Observatoire_Des_Camps_De_Re%CC%81fugie%CC%81s_-_o-cr.org_matt0c.png" alt="Observatoire des camps de réfugiés screenshot" height="300"/>
 
 ### [Read Fabula](https://readfabula.netlify.app/)
 
@@ -22,34 +34,15 @@ Technologies: ReactJS, Mailchimp Integration
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1709719383/Readfabula.png" alt="Readfabula screenshot" height="200"/>
 
-### [Gluttonglobe](https://bejewelled-alfajores-c72f6e.netlify.app/)
-
-My final project at Ironhack : a mobile app allowing users to mark cities they have been to or want to visit, while also discovering recommendations from users worldwide.
-
-Technologies: MERN Stack
-
-[Click here for repository](https://github.com/Panthari-Panthong/gluttonGlobe-client)
-
-<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688132197/Gluttonglobe_capture_hvlzdv.png" alt="Gluttonglobe's screenshot" height="200"/>
-
-  
 ### [Findeatre](https://findeatre.adaptable.app/)
 
-My second project at Ironhack : a web app to discover all upcoming plays around you and follow your favorite artists.
+A web app to discover all upcoming plays around you and follow your favorite artists.
 
 Technologies: NodeJS, Express.js, Javascript, CSS, MongoDB, Cloudinary
 
 [Click here for repository](https://github.com/aturike/findeatre)
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688130499/Findeatre_capture_pbmjtf.png" alt="Findeatre's landing page" width="300" height="200"/>    <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688131416/Findeatre_s_screenshot_ti0gvn.png" alt="Findeatre's screenshot" width="300" height="200"/>
-
-### [A Brick Breaker Game](https://www.solenetthomas.com/brick-breaker/)
-
-My first project ever: a brick breaker game.
-
-Technologies : HTML, CSS and Javascript
-
-<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688131968/Brick_Breaker_capture_ewqtym.png" alt="Brick Breaker's landing page" height="200"/>
 
 ## I build websites with
 
