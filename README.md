@@ -16,6 +16,14 @@ Skills: Exploration/Profiling, Transformation, Modelisation, Visualisation
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632574/Dataviz1_vjy6ub.png" alt="Observatoire des camps de réfugiés screenshot" height="190"/><img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632586/Dataviz2_apofn8.png" alt="Observatoire des camps de réfugiés screenshot" height="190"/><img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632590/Dataviz3_bmdaw6.png" alt="Observatoire des camps de réfugiés screenshot" height="190"/>
 
+### Cybersecurity
+
+#### [L'Observatoire des camps de réfugiés](https://o-cr.org/)
+
+Securizing a WordPress site for a nonprofit organization with sensitive data (refugee camps, field sources).
+
+Skills : initial security audit, risk identification, implementation of security measures
+
 ### Web development code/no-code
 
 #### [L'Observatoire des camps de réfugiés](https://o-cr.org/)
