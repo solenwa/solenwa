@@ -6,7 +6,7 @@ Project manager with several years of experience in digital project management, 
 
 ### Dataviz
 
-### Etude sur les accidents de la route en France en 2024
+#### Etude sur les accidents de la route en France en 2024
 
 An interactive Power BI dashboard analyzing road accident data in France to uncover trends, risk factors, and regional disparities, supporting data-driven decision-making in road safety.
 
@@ -18,7 +18,7 @@ Technologies: Power BI
 
 ### Web development code/no-code
 
-### [L'Observatoire des camps de réfugiés](https://o-cr.org/)
+#### [L'Observatoire des camps de réfugiés](https://o-cr.org/)
 
 A web platform built with WordPress and custom development to centralize, structure, and make accessible reliable information and analysis on refugee camps worldwide.
 
@@ -26,7 +26,7 @@ Technologies: Wordpress, Elementor, Javascript, PHP
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772630921/Page_D_accueil_-_L_Observatoire_Des_Camps_De_Re%CC%81fugie%CC%81s_-_o-cr.org_matt0c.png" alt="Observatoire des camps de réfugiés screenshot" height="300"/>
 
-### [Findeatre](https://findeatre.adaptable.app/)
+#### [Findeatre](https://findeatre.adaptable.app/)
 
 A web app to discover all upcoming plays around you and follow your favorite artists.
 
