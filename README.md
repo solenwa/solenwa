@@ -11,6 +11,7 @@ Project manager with several years of experience in digital project management, 
 An interactive Power BI dashboard analyzing road accident data in France to uncover trends, risk factors, and regional disparities, supporting data-driven decision-making in road safety.
 
 Technologies: Power BI
+Skills: Exploration/Profiling, Transformation, Modelisation, Visualisation
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632574/Dataviz1_vjy6ub.png" alt="Observatoire des camps de réfugiés screenshot" height="190"/><img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632586/Dataviz2_apofn8.png" alt="Observatoire des camps de réfugiés screenshot" height="190"/><img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632590/Dataviz3_bmdaw6.png" alt="Observatoire des camps de réfugiés screenshot" height="190"/>
 
