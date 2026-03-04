@@ -26,7 +26,7 @@ Technologies: Wordpress, Elementor, Javascript, PHP
 
 <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772630921/Page_D_accueil_-_L_Observatoire_Des_Camps_De_Re%CC%81fugie%CC%81s_-_o-cr.org_matt0c.png" alt="Observatoire des camps de réfugiés screenshot" height="300"/>
 
-#### [Findeatre](https://findeatre.adaptable.app/)
+#### Findeatre
 
 A web app to discover all upcoming plays around you and follow your favorite artists.
 
