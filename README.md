@@ -12,9 +12,7 @@ An interactive Power BI dashboard analyzing road accident data in France to unco
 
 Technologies: Power BI
 
-<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632574/Dataviz1_vjy6ub.png" alt="Observatoire des camps de réfugiés screenshot" height="300"/>
-<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632586/Dataviz2_apofn8.png" alt="Observatoire des camps de réfugiés screenshot" height="300"/>
-<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632590/Dataviz3_bmdaw6.png" alt="Observatoire des camps de réfugiés screenshot" height="300"/>
+<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632574/Dataviz1_vjy6ub.png" alt="Observatoire des camps de réfugiés screenshot" height="190"/><img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632586/Dataviz2_apofn8.png" alt="Observatoire des camps de réfugiés screenshot" height="190"/><img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1772632590/Dataviz3_bmdaw6.png" alt="Observatoire des camps de réfugiés screenshot" height="190"/>
 
 ### Web development code/no-code
 
@@ -34,7 +32,7 @@ Technologies: NodeJS, Express.js, Javascript, CSS, MongoDB, Cloudinary
 
 [Click here for repository](https://github.com/aturike/findeatre)
 
-<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688130499/Findeatre_capture_pbmjtf.png" alt="Findeatre's landing page" width="300" height="200"/>    <img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688131416/Findeatre_s_screenshot_ti0gvn.png" alt="Findeatre's screenshot" width="300" height="200"/>
+<img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688130499/Findeatre_capture_pbmjtf.png" alt="Findeatre's landing page" height="200"/><img src="https://res.cloudinary.com/dkadjaj7k/image/upload/v1688131416/Findeatre_s_screenshot_ti0gvn.png" alt="Findeatre's screenshot" height="200"/>
 
 ## My skills
 
